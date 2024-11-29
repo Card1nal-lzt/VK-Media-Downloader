@@ -1,7 +1,10 @@
 VK Media Downloader 🎥📥
 A Node.js script to download media attachments (photos and GIFs) from posts of a specified VK group.
 
-✨ Features - 📄 Fetches wall posts from a VK group using the VK API. - 🖼️ Downloads high-resolution photos and GIFs from posts. - 🗂️ Automatically organizes downloaded files into a specified directory.
+✨ Features 
+      - 📄 Fetches wall posts from a VK group using the VK API.
+      - 🖼️ Downloads high-resolution photos and GIFs from posts.
+      - 🗂️ Automatically organizes downloaded files into a specified directory.
 
 🚀 Setup
 
