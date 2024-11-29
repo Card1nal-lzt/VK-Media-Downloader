@@ -8,7 +8,9 @@ A Node.js script to download media attachments (photos and GIFs) from posts of a
 
 🚀 Setup
 
-Clone the repository: 🛠️ - git clone https://github.com/yourusername/vk-media-downloader.git - cd vk-media-downloader
+Clone the repository: 🛠️ 
+      - git clone https://github.com/yourusername/vk-media-downloader.git 
+      - cd vk-media-downloader
 
 Install dependencies: 📦 - npm install
 
